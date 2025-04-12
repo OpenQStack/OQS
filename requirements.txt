@@ -1,0 +1,20 @@
+# === Core Numerics & Visualization ===
+numpy>=1.21
+matplotlib>=3.4
+
+# === Quantum Simulation (Optional but Powerful) ===
+qutip>=4.6           # Quantum toolbox in Python (for density matrix sims)
+qiskit>=0.44         # IBM Quantum SDK (for backend integration)
+
+# === Scientific Utilities ===
+scipy>=1.7           # Linear algebra, integrators, signal processing
+
+# === Dev Tools ===
+pytest>=7.0          # Unit testing framework
+black>=23.1          # Code formatting
+flake8>=5.0          # Linting
+mypy>=1.2            # Optional static type checking
+
+# === Interactive / Notebook Dev ===
+ipython>=8.0
+jupyterlab>=3.0
