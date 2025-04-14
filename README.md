@@ -7,6 +7,8 @@ OpenQStack is a modular, open-source platform for exploring, teaching, and proto
 We don’t just simulate error correction.  
 We enable students, educators, and researchers to build real understanding of how noise, measurement, and feedback interplay in quantum systems.
 
+This is the first product launched by the Noro Nonprofit organization
+
 ---
 
 ## Mission
